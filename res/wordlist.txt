@@ -1357,6 +1357,7 @@ crablike
 crabmeat
 cradle
 cradling
+craft
 crafter
 craftily
 craftsman
@@ -1942,6 +1943,8 @@ doorpost
 doorstep
 doorstop
 doorway
+forward
+forwarded
 doozy
 dork
 dormitory
@@ -1964,6 +1967,7 @@ drainable
 drainage
 drained
 drainer
+pipe
 drainpipe
 dramatic
 dramatize
@@ -2993,6 +2997,8 @@ graves
 graveyard
 gravitate
 gravity
+inhale
+inhaled
 gravy
 gray
 grazing
@@ -3024,6 +3030,7 @@ grit
 groggily
 groggy
 groin
+room
 groom
 groove
 grooving
@@ -5307,6 +5314,7 @@ repeater
 repent
 rephrase
 replace
+place
 replay
 replica
 reply
@@ -5562,6 +5570,7 @@ saddling
 sadly
 sadness
 safari
+guard
 safeguard
 safehouse
 safely
@@ -5582,6 +5591,7 @@ saline
 salon
 saloon
 salsa
+commit
 salt
 salutary
 salute
@@ -5598,6 +5608,7 @@ sandal
 sandbag
 sandbank
 sandbar
+ambar
 sandblast
 sandbox
 sanded
@@ -5681,6 +5692,7 @@ scion
 scoff
 scolding
 scone
+population
 scoop
 scooter
 scope
@@ -5710,6 +5722,7 @@ scrawny
 screen
 scribble
 scribe
+crypt
 scribing
 scrimmage
 script
